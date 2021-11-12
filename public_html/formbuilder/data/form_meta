@@ -1,0 +1,5 @@
+id,name,domain,email_to,email_cc,email_bcc,email_subject,email_template,redirect_url
+206654,Contact Us,kiwanis28.ipower.com,,,,,,/scripts/thankyou.bml
+207104,Contact_Form,kiwanis28.ipower.com,ltgovernor@cnhkiwanis28.org,,trofy1@netzero.com,Division 28 Website Contact Form,[ 0.000000E+00mail Address %] [% Name %] [% Comments %] 
+
+,www.cnhkiwanis28.org

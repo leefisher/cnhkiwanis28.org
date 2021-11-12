@@ -1,0 +1,7 @@
+id,form_id,field_name,field_type,field_default_value,field_taint_check,rank
+1522172,206654,Form Submit,Submit,Submit Form,,1.00
+1524941,207104,Form Submit,Submit,Submit Form,,5.00
+1524944,207104,Name,Text,,,1.00
+1524947,207104,Email Address,Text,,,2.00
+1524956,207104,Comments,Text Area,,,3.00
+1524959,207104,Reset,Submit,Reset,,4.00
